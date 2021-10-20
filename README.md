@@ -10,7 +10,7 @@ App desarrollada con Python/Django y Nuxt JS
 3. Yarn
 
 # Running the application
-1. Clone el proyecto a su máquina [git clone https://github.com/Jordanirabor/recipes_app]
+1. Clone el proyecto a su máquina [git clone https://github.com/KNajarro/PruebaTecnica.git]
 2. Navege hasta el directorio  [cd webapp]
 3. Habilite el entorno virtual [source venv/bin/activate]
 4. Install the dependencies [pip install requirements.txt]
